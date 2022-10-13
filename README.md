@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://user-images.githubusercontent.com/10446161/195706555-c493edc6-5d3c-4f6b-b649-0cb42a9da0fe.svg" alt="logo" width="80" height="auto">
 	<h1 align="center">WordPress Base</h1>
 	<p align="center">
 		Starter theme based on _s
