@@ -1,0 +1,22 @@
+{
+	"extends": [
+		"plugin:@wordpress/eslint-plugin/esnext",
+		"prettier"
+	],
+	"env": {
+		"browser": true
+	},
+	"rules": {
+		"no-console": "warn",
+		"indent": [
+			"error",
+			"tab"
+		],
+		"no-tabs": [
+			"error",
+			{
+				"allowIndentationTabs": true
+			}
+		]
+	}
+}
